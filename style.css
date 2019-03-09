@@ -1,0 +1,16 @@
+html, body {
+  margin: 0;
+  padding: 15px;
+  font-family: "Trebuchet MS", sans-serif;
+  font-size: 25px;
+  color: #004fb7;
+  background-color:#fcf12a;
+  height: 100px;
+  width: 500px;
+
+}
+
+#title {
+  position: relative;
+
+}
